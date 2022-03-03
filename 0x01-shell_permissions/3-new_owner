@@ -1,2 +1,5 @@
 #!/bin/bash
 chown betty hello
+[master 1546dba] To change ownership.
+ 1 file changed, 2 insertions(+)
+ create mode 100644 0x01-shell_permissions/3-new_owner
